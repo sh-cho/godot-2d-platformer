@@ -34,3 +34,5 @@ margin_bottom = 236.0
 [node name="PlayButton" parent="Menu" instance=ExtResource( 3 )]
 
 [node name="QuitButton" parent="Menu" instance=ExtResource( 4 )]
+margin_top = 80.0
+margin_bottom = 156.0
