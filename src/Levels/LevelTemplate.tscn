@@ -34,7 +34,6 @@ tile_data = PoolIntArray( 0, 0, 0, 40, 0, 0, 41, 0, 0, 65536, 0, 0, 65576, 0, 0,
 position = Vector2( 440, 560 )
 
 [node name="Camera2D" parent="Player" index="2"]
-current = false
 limit_right = 3360
 
 [node name="Enemy" parent="." instance=ExtResource( 3 )]
